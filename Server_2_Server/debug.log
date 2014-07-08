@@ -1,0 +1,313 @@
+<2014-04-28 10:51:03> Test: 
+<2014-04-28 10:51:03> http://www.gristlebone.com/School/Server_2_Server/update_facebook.php
+<2014-04-28 10:51:43> Test: 
+<2014-04-28 10:51:43> http://www.gristlebone.com/School/Server_2_Server/update_facebook.php
+<2014-04-28 10:51:44> Test: 
+<2014-04-28 10:51:44> http://www.gristlebone.com/School/Server_2_Server/update_facebook.php?code=AQAUlYtVG7uvyHzWQZNgicZKahhIYwHsNoYdkJVqcmsnWmXMBGLYDpzTM5jzM4JDfpvjzyrpql72-hbWgTttzRu_BEfdm8mktr70SCBbXPtF_66reG6nu-78aAM_9X1Xhq4LrOFFtBUYA05wsuV3rFBoOikAe-mVjgeg0WKLd4HkMC7jPy9Ut4KkQdy7Athz3od9IkLC7nt87TdlKLsNkxVLdV5oLnjBLRGStPP50PzzwihmiwLo2qcpEduOzjlvgGLHl_JIc7rXev8d-1Bq8UdmYp9ob4KJxbtKnArC8Hw3K6JpY3bhgBf0eAEvEApAZ_U
+<2014-04-28 10:51:44> https://graph.facebook.com/oauth/access_token?client_id=685674891484274&redirect_uri=http://www.gristlebone.com/School/Server_2_Server/update_facebook.php?code=AQAUlYtVG7uvyHzWQZNgicZKahhIYwHsNoYdkJVqcmsnWmXMBGLYDpzTM5jzM4JDfpvjzyrpql72-hbWgTttzRu_BEfdm8mktr70SCBbXPtF_66reG6nu-78aAM_9X1Xhq4LrOFFtBUYA05wsuV3rFBoOikAe-mVjgeg0WKLd4HkMC7jPy9Ut4KkQdy7Athz3od9IkLC7nt87TdlKLsNkxVLdV5oLnjBLRGStPP50PzzwihmiwLo2qcpEduOzjlvgGLHl_JIc7rXev8d-1Bq8UdmYp9ob4KJxbtKnArC8Hw3K6JpY3bhgBf0eAEvEApAZ_U&client_secret=51d4300dfbced777168d94a32394ade9&code=AQAUlYtVG7uvyHzWQZNgicZKahhIYwHsNoYdkJVqcmsnWmXMBGLYDpzTM5jzM4JDfpvjzyrpql72-hbWgTttzRu_BEfdm8mktr70SCBbXPtF_66reG6nu-78aAM_9X1Xhq4LrOFFtBUYA05wsuV3rFBoOikAe-mVjgeg0WKLd4HkMC7jPy9Ut4KkQdy7Athz3od9IkLC7nt87TdlKLsNkxVLdV5oLnjBLRGStPP50PzzwihmiwLo2qcpEduOzjlvgGLHl_JIc7rXev8d-1Bq8UdmYp9ob4KJxbtKnArC8Hw3K6JpY3bhgBf0eAEvEApAZ_U
+<2014-04-28 10:51:44> string(216) "access_token=CAAJvniBWnHIBADc5rz53d4I9ylyHND1F5du5kA4ZCmTCJkqAUWXnUiFnniCNGZBjs3ZANH2CnZAZCm9ZCctubZBglq8OWjSMMJ1BE7fNqzgTDJUhvOhAY9p0AXvRIqax91YVRgzD6sAfOYptXHvZCdFdXZACkC83LTeH1SiCnJ5q1i5jb4M0w9ZCY8&expires=5181978"
+
+<2014-04-28 10:51:44> array(2) {
+  [0]=>
+  string(200) "access_token=CAAJvniBWnHIBADc5rz53d4I9ylyHND1F5du5kA4ZCmTCJkqAUWXnUiFnniCNGZBjs3ZANH2CnZAZCm9ZCctubZBglq8OWjSMMJ1BE7fNqzgTDJUhvOhAY9p0AXvRIqax91YVRgzD6sAfOYptXHvZCdFdXZACkC83LTeH1SiCnJ5q1i5jb4M0w9ZCY8"
+  [1]=>
+  string(15) "expires=5181978"
+}
+
+<2014-04-28 11:09:18> Test: 
+<2014-04-28 11:09:18> http://www.gristlebone.com/School/Server_2_Server/update_facebook.php
+<2014-04-28 11:09:19> Test: 
+<2014-04-28 11:09:19> http://www.gristlebone.com/School/Server_2_Server/update_facebook.php?code=AQBKdGX9aMFF-i1UlhN29-Ac2_q_BQWXhBqpdNhJeQBE0vqTDASSJaaavoAocA0JI30fRD8HJsCDGGiHM7Vlsy2mGTycUhxBeQcnf89wzxF5lr2_L8EAVG7g2KCPqgOzgpAK7b_3i8psgP0UqCXJq0GzH8FR5iJNLHz0vG6ho8VvaFnOGULIRWmfxr-5L7K0vgm5cSN0uzz8j1aoa4Jru_T2Yp7LMAawPEQFoomTBLr-u9Ty6eMV3I9rZUhLOra19hmRS0MYdHEiZ-LUR1SQYb9AKer-N7aKomuw6evzZUGj6nN3n8F2-CAyDT7R8eueI1Q
+<2014-04-28 11:09:19> https://graph.facebook.com/oauth/access_token?client_id=685674891484274&redirect_uri=http://www.gristlebone.com/School/Server_2_Server/update_facebook.php?code=AQBKdGX9aMFF-i1UlhN29-Ac2_q_BQWXhBqpdNhJeQBE0vqTDASSJaaavoAocA0JI30fRD8HJsCDGGiHM7Vlsy2mGTycUhxBeQcnf89wzxF5lr2_L8EAVG7g2KCPqgOzgpAK7b_3i8psgP0UqCXJq0GzH8FR5iJNLHz0vG6ho8VvaFnOGULIRWmfxr-5L7K0vgm5cSN0uzz8j1aoa4Jru_T2Yp7LMAawPEQFoomTBLr-u9Ty6eMV3I9rZUhLOra19hmRS0MYdHEiZ-LUR1SQYb9AKer-N7aKomuw6evzZUGj6nN3n8F2-CAyDT7R8eueI1Q&client_secret=51d4300dfbced777168d94a32394ade9&code=AQBKdGX9aMFF-i1UlhN29-Ac2_q_BQWXhBqpdNhJeQBE0vqTDASSJaaavoAocA0JI30fRD8HJsCDGGiHM7Vlsy2mGTycUhxBeQcnf89wzxF5lr2_L8EAVG7g2KCPqgOzgpAK7b_3i8psgP0UqCXJq0GzH8FR5iJNLHz0vG6ho8VvaFnOGULIRWmfxr-5L7K0vgm5cSN0uzz8j1aoa4Jru_T2Yp7LMAawPEQFoomTBLr-u9Ty6eMV3I9rZUhLOra19hmRS0MYdHEiZ-LUR1SQYb9AKer-N7aKomuw6evzZUGj6nN3n8F2-CAyDT7R8eueI1Q
+<2014-04-28 11:09:19> string(214) "access_token=CAAJvniBWnHIBAPpEadKY1c2FbBUs3KQ7P2bk8pE3Yz6XheZCmyxZACyb9BZCEEHXDDC2LrED7aFnRHPJykZC9OP5rVTk6vgZAJWdKrkRTE1nD3PXp2eUkxQldtHeZCvsmqLXz8ixvgS35Lw7L8NmOq9KNZAI7qsRWs0MWlaMUcTRp2UNcvCZCE4p&expires=5180923"
+
+<2014-04-28 11:09:19> array(2) {
+  [0]=>
+  string(198) "access_token=CAAJvniBWnHIBAPpEadKY1c2FbBUs3KQ7P2bk8pE3Yz6XheZCmyxZACyb9BZCEEHXDDC2LrED7aFnRHPJykZC9OP5rVTk6vgZAJWdKrkRTE1nD3PXp2eUkxQldtHeZCvsmqLXz8ixvgS35Lw7L8NmOq9KNZAI7qsRWs0MWlaMUcTRp2UNcvCZCE4p"
+  [1]=>
+  string(15) "expires=5180923"
+}
+
+<2014-04-28 11:09:24> Test: 
+<2014-04-28 11:09:24> http://www.gristlebone.com/School/Server_2_Server/update_instagram.php
+<2014-04-28 11:09:34> Test: 
+<2014-04-28 11:09:34> http://www.gristlebone.com/School/Server_2_Server/update_instagram.php?code=8e2d41a3c91c4351bd9a4bcc20c7624a
+<2014-04-28 11:09:34> https://api.instagram.com/oauth/access_token?client_id=bfb2a65e4a8d434fb73953c1140da2e1&client_secret=ac2e74286ed2477b99e85278de760311&grant_type=authorization_code&redirect_uri=http://www.gristlebone.com/School/Server_2_Server/update_instagram.php?code=8e2d41a3c91c4351bd9a4bcc20c7624a&code=8e2d41a3c91c4351bd9a4bcc20c7624a
+<2014-04-28 11:09:34> string(0) ""
+
+<2014-04-28 11:09:34> array(1) {
+  [0]=>
+  string(0) ""
+}
+
+<2014-04-28 11:13:17> Test: 
+<2014-04-28 11:13:17> Test: 
+<2014-04-28 11:13:17> http://www.gristlebone.com/School/Server_2_Server/update_instagram.php?code=8e2d41a3c91c4351bd9a4bcc20c7624a
+<2014-04-28 11:13:17> http://www.gristlebone.com/School/Server_2_Server/update_instagram.php?code=8e2d41a3c91c4351bd9a4bcc20c7624a
+<2014-04-28 11:13:17> https://api.instagram.com/oauth/access_token?client_id=bfb2a65e4a8d434fb73953c1140da2e1&client_secret=ac2e74286ed2477b99e85278de760311&grant_type=authorization_code&redirect_uri=http://www.gristlebone.com/School/Server_2_Server/update_instagram.php?code=8e2d41a3c91c4351bd9a4bcc20c7624a&code=8e2d41a3c91c4351bd9a4bcc20c7624a
+<2014-04-28 11:13:17> https://api.instagram.com/oauth/access_token?client_id=bfb2a65e4a8d434fb73953c1140da2e1&client_secret=ac2e74286ed2477b99e85278de760311&grant_type=authorization_code&redirect_uri=http://www.gristlebone.com/School/Server_2_Server/update_instagram.php?code=8e2d41a3c91c4351bd9a4bcc20c7624a&code=8e2d41a3c91c4351bd9a4bcc20c7624a
+<2014-04-28 11:13:17> REsponse:
+<2014-04-28 11:13:17> string(0) ""
+
+<2014-04-28 11:13:17> array(1) {
+  [0]=>
+  string(0) ""
+}
+
+<2014-04-28 11:13:18> Test: 
+<2014-04-28 11:13:18> http://www.gristlebone.com/School/Server_2_Server/update_instagram.php
+<2014-04-28 11:13:18> REsponse:
+<2014-04-28 11:13:18> string(0) ""
+
+<2014-04-28 11:13:18> array(1) {
+  [0]=>
+  string(0) ""
+}
+
+<2014-04-28 11:13:18> Test: 
+<2014-04-28 11:13:18> http://www.gristlebone.com/School/Server_2_Server/update_instagram.php
+<2014-04-28 11:13:22> Test: 
+<2014-04-28 11:13:22> http://www.gristlebone.com/School/Server_2_Server/update_instagram.php?code=ca4f5c7c99fc4261828a7309d0f40857
+<2014-04-28 11:13:22> https://api.instagram.com/oauth/access_token?client_id=bfb2a65e4a8d434fb73953c1140da2e1&client_secret=ac2e74286ed2477b99e85278de760311&grant_type=authorization_code&redirect_uri=http://www.gristlebone.com/School/Server_2_Server/update_instagram.php?code=ca4f5c7c99fc4261828a7309d0f40857&code=ca4f5c7c99fc4261828a7309d0f40857
+<2014-04-28 11:13:23> REsponse:
+<2014-04-28 11:13:23> string(0) ""
+
+<2014-04-28 11:13:23> array(1) {
+  [0]=>
+  string(0) ""
+}
+
+<2014-04-28 11:17:58> Test: 
+<2014-04-28 11:17:58> http://www.gristlebone.com/School/Server_2_Server/update_instagram.php
+<2014-04-28 11:17:59> Test: 
+<2014-04-28 11:17:59> http://www.gristlebone.com/School/Server_2_Server/update_instagram.php
+<2014-04-28 11:18:02> Test: 
+<2014-04-28 11:18:02> http://www.gristlebone.com/School/Server_2_Server/update_instagram.php?code=9add8629b32043ceac863edf4f442c07
+<2014-04-28 11:18:02> https://api.instagram.com/oauth/access_token?
+<2014-04-28 11:18:02> REsponse:
+<2014-04-28 11:18:02> string(0) ""
+
+<2014-04-28 11:18:02> array(1) {
+  [0]=>
+  string(0) ""
+}
+
+<2014-04-28 11:18:24> Test: 
+<2014-04-28 11:18:24> http://www.gristlebone.com/School/Server_2_Server/update_instagram.php
+<2014-04-28 11:18:36> Test: 
+<2014-04-28 11:18:36> http://www.gristlebone.com/School/Server_2_Server/update_instagram.php
+<2014-04-28 11:18:40> Test: 
+<2014-04-28 11:18:41> http://www.gristlebone.com/School/Server_2_Server/update_instagram.php?code=fb8224804221454bb764a1cde1bc5fb5
+<2014-04-28 11:18:41> https://api.instagram.com/oauth/access_token?
+<2014-04-28 11:18:41> REsponse:
+<2014-04-28 11:18:41> string(114) "{"code": 400, "error_type": "OAuthException", "error_message": "Redirect URI doesn't match original redirect URI"}"
+
+<2014-04-28 11:18:41> array(1) {
+  [0]=>
+  string(114) "{"code": 400, "error_type": "OAuthException", "error_message": "Redirect URI doesn't match original redirect URI"}"
+}
+
+<2014-04-28 11:21:44> Test: 
+<2014-04-28 11:21:44> http://www.gristlebone.com/School/Server_2_Server/update_instagram.php
+<2014-04-28 11:21:48> Test: 
+<2014-04-28 11:21:48> http://www.gristlebone.com/School/Server_2_Server/update_instagram.php
+<2014-04-28 11:21:48> https://api.instagram.com/oauth/access_token
+<2014-04-28 11:21:49> REsponse:
+<2014-04-28 11:21:49> string(357) "{"access_token":"51284304.bfb2a65.987f69e7b87d49fe910bc5ca1b77023e","user":{"username":"redrivercollege","bio":"We're Manitoba's largest institute of applied learning.","website":"http:\/\/twitter.com\/rrc","profile_picture":"http:\/\/images.ak.instagram.com\/profiles\/profile_51284304_75sq_1380209897.jpg","full_name":"Red River College","id":"51284304"}}"
+
+<2014-04-28 11:21:49> array(1) {
+  [0]=>
+  string(357) "{"access_token":"51284304.bfb2a65.987f69e7b87d49fe910bc5ca1b77023e","user":{"username":"redrivercollege","bio":"We're Manitoba's largest institute of applied learning.","website":"http:\/\/twitter.com\/rrc","profile_picture":"http:\/\/images.ak.instagram.com\/profiles\/profile_51284304_75sq_1380209897.jpg","full_name":"Red River College","id":"51284304"}}"
+}
+
+<2014-04-28 11:24:58> Test: 
+<2014-04-28 11:24:58> http://www.gristlebone.com/School/Server_2_Server/update_instagram.php
+<2014-04-28 11:24:58> Test: 
+<2014-04-28 11:24:58> http://www.gristlebone.com/School/Server_2_Server/update_instagram.php
+<2014-04-28 11:24:58> https://api.instagram.com/oauth/access_token
+<2014-04-28 11:24:58> REsponse:
+<2014-04-28 11:24:58> string(357) "{"access_token":"51284304.bfb2a65.987f69e7b87d49fe910bc5ca1b77023e","user":{"username":"redrivercollege","bio":"We're Manitoba's largest institute of applied learning.","website":"http:\/\/twitter.com\/rrc","profile_picture":"http:\/\/images.ak.instagram.com\/profiles\/profile_51284304_75sq_1380209897.jpg","full_name":"Red River College","id":"51284304"}}"
+
+<2014-04-28 11:24:58> string(357) "{"access_token":"51284304.bfb2a65.987f69e7b87d49fe910bc5ca1b77023e","user":{"username":"redrivercollege","bio":"We're Manitoba's largest institute of applied learning.","website":"http:\/\/twitter.com\/rrc","profile_picture":"http:\/\/images.ak.instagram.com\/profiles\/profile_51284304_75sq_1380209897.jpg","full_name":"Red River College","id":"51284304"}}"
+
+<2014-04-28 11:27:19> Test: 
+<2014-04-28 11:27:19> http://www.gristlebone.com/School/Server_2_Server/update_instagram.php
+<2014-04-28 11:27:20> Test: 
+<2014-04-28 11:27:20> http://www.gristlebone.com/School/Server_2_Server/update_instagram.php
+<2014-04-28 11:27:20> https://api.instagram.com/oauth/access_token
+<2014-04-28 11:27:20> REsponse:
+<2014-04-28 11:27:20> string(357) "{"access_token":"51284304.bfb2a65.987f69e7b87d49fe910bc5ca1b77023e","user":{"username":"redrivercollege","bio":"We're Manitoba's largest institute of applied learning.","website":"http:\/\/twitter.com\/rrc","profile_picture":"http:\/\/images.ak.instagram.com\/profiles\/profile_51284304_75sq_1380209897.jpg","full_name":"Red River College","id":"51284304"}}"
+
+<2014-04-28 11:27:20> object(stdClass)#2 (2) {
+  ["access_token"]=>
+  string(49) "51284304.bfb2a65.987f69e7b87d49fe910bc5ca1b77023e"
+  ["user"]=>
+  object(stdClass)#3 (6) {
+    ["username"]=>
+    string(15) "redrivercollege"
+    ["bio"]=>
+    string(55) "We're Manitoba's largest institute of applied learning."
+    ["website"]=>
+    string(22) "http://twitter.com/rrc"
+    ["profile_picture"]=>
+    string(76) "http://images.ak.instagram.com/profiles/profile_51284304_75sq_1380209897.jpg"
+    ["full_name"]=>
+    string(17) "Red River College"
+    ["id"]=>
+    string(8) "51284304"
+  }
+}
+
+<2014-04-28 11:28:36> Test: 
+<2014-04-28 11:28:36> http://www.gristlebone.com/School/Server_2_Server/update_instagram.php
+<2014-04-28 11:28:37> Test: 
+<2014-04-28 11:28:37> http://www.gristlebone.com/School/Server_2_Server/update_instagram.php
+<2014-04-28 11:28:37> https://api.instagram.com/oauth/access_token
+<2014-04-28 11:28:37> REsponse:
+<2014-04-28 11:28:37> string(357) "{"access_token":"51284304.bfb2a65.987f69e7b87d49fe910bc5ca1b77023e","user":{"username":"redrivercollege","bio":"We're Manitoba's largest institute of applied learning.","website":"http:\/\/twitter.com\/rrc","profile_picture":"http:\/\/images.ak.instagram.com\/profiles\/profile_51284304_75sq_1380209897.jpg","full_name":"Red River College","id":"51284304"}}"
+
+<2014-04-28 11:28:37> string(49) "51284304.bfb2a65.987f69e7b87d49fe910bc5ca1b77023e"
+
+<2014-04-28 11:28:40> Test: 
+<2014-04-28 11:28:40> http://www.gristlebone.com/School/Server_2_Server/update_instagram.php
+<2014-04-28 11:28:41> Test: 
+<2014-04-28 11:28:41> http://www.gristlebone.com/School/Server_2_Server/update_instagram.php
+<2014-04-28 11:28:41> https://api.instagram.com/oauth/access_token
+<2014-04-28 11:28:41> REsponse:
+<2014-04-28 11:28:41> string(357) "{"access_token":"51284304.bfb2a65.987f69e7b87d49fe910bc5ca1b77023e","user":{"username":"redrivercollege","bio":"We're Manitoba's largest institute of applied learning.","website":"http:\/\/twitter.com\/rrc","profile_picture":"http:\/\/images.ak.instagram.com\/profiles\/profile_51284304_75sq_1380209897.jpg","full_name":"Red River College","id":"51284304"}}"
+
+<2014-04-28 11:28:41> string(49) "51284304.bfb2a65.987f69e7b87d49fe910bc5ca1b77023e"
+
+<2014-04-28 11:52:26> Test: 
+<2014-04-28 11:52:26> http://www.gristlebone.com/School/Server_2_Server/update_youtube.php
+<2014-04-28 11:52:26> https://gdata.youtube.com/feeds/api/users/RedRiverCollege?key=AIzaSyAZcvcUZmHgo9oh7kr7r8BIFntt7AYI7b0
+<2014-04-28 11:52:26> REsponse:
+<2014-04-28 11:52:26> string(2551) "<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:media='http://search.yahoo.com/mrss/' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007'><id>http://gdata.youtube.com/feeds/api/users/EBoj3DKkfQo23CYbq99QHQ</id><published>2007-02-14T06:13:49.000Z</published><updated>2014-04-27T17:49:48.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#userProfile'/><category scheme='http://gdata.youtube.com/schemas/2007/channeltypes.cat' term='DIRECTOR'/><title type='text'>Red River College</title><content type='text'>Red River College is the largest and most comprehensive institute of applied learning in Manitoba.
+
+We provide the highest quality education and training for 32,000 full and part-time enrolments each year.</content><link rel='alternate' type='text/html' href='https://www.youtube.com/channel/UCEBoj3DKkfQo23CYbq99QHQ'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/EBoj3DKkfQo23CYbq99QHQ'/><author><name>Red River College</name><uri>https://gdata.youtube.com/feeds/api/users/RedRiverCollege</uri></author><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#user.subscriptions' href='https://gdata.youtube.com/feeds/api/users/redrivercollege/subscriptions' countHint='0'/><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#user.contacts' href='https://gdata.youtube.com/feeds/api/users/redrivercollege/contacts' countHint='0'/><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#user.inbox' href='https://gdata.youtube.com/feeds/api/users/redrivercollege/inbox'/><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#user.playlists' href='https://gdata.youtube.com/feeds/api/users/redrivercollege/playlists'/><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#user.uploads' href='https://gdata.youtube.com/feeds/api/users/redrivercollege/uploads' countHint='55'/><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#user.newsubscriptionvideos' href='https://gdata.youtube.com/feeds/api/users/redrivercollege/newsubscriptionvideos'/><yt:googlePlusUserId>116579081814756647143</yt:googlePlusUserId><yt:location>CA</yt:location><yt:statistics lastWebAccess='1970-01-01T00:00:00.000Z' subscriberCount='190' videoWatchCount='0' viewCount='0' totalUploadViews='47446'/><media:thumbnail url='https://yt3.ggpht.com/-UuaVTRCi3SM/AAAAAAAAAAI/AAAAAAAAAAA/flPqfs-vygw/s88-c-k-no/photo.jpg'/><yt:username>redrivercollege</yt:username></entry>"
+
+<2014-04-28 11:52:26> NULL
+
+<2014-04-28 11:53:20> Test: 
+<2014-04-28 11:53:20> http://www.gristlebone.com/School/Server_2_Server/update_youtube.php
+<2014-04-28 11:53:20> https://gdata.youtube.com/feeds/api/users/RedRiverCollege?key=AIzaSyAZcvcUZmHgo9oh7kr7r8BIFntt7AYI7b0
+<2014-04-28 11:53:21> REsponse:
+<2014-04-28 11:53:21> string(2551) "<?xml version='1.0' encoding='UTF-8'?><entry xmlns='http://www.w3.org/2005/Atom' xmlns:media='http://search.yahoo.com/mrss/' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007'><id>http://gdata.youtube.com/feeds/api/users/EBoj3DKkfQo23CYbq99QHQ</id><published>2007-02-14T06:13:49.000Z</published><updated>2014-04-27T17:49:48.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#userProfile'/><category scheme='http://gdata.youtube.com/schemas/2007/channeltypes.cat' term='DIRECTOR'/><title type='text'>Red River College</title><content type='text'>Red River College is the largest and most comprehensive institute of applied learning in Manitoba.
+
+We provide the highest quality education and training for 32,000 full and part-time enrolments each year.</content><link rel='alternate' type='text/html' href='https://www.youtube.com/channel/UCEBoj3DKkfQo23CYbq99QHQ'/><link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/users/EBoj3DKkfQo23CYbq99QHQ'/><author><name>Red River College</name><uri>https://gdata.youtube.com/feeds/api/users/RedRiverCollege</uri></author><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#user.subscriptions' href='https://gdata.youtube.com/feeds/api/users/redrivercollege/subscriptions' countHint='0'/><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#user.contacts' href='https://gdata.youtube.com/feeds/api/users/redrivercollege/contacts' countHint='0'/><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#user.inbox' href='https://gdata.youtube.com/feeds/api/users/redrivercollege/inbox'/><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#user.playlists' href='https://gdata.youtube.com/feeds/api/users/redrivercollege/playlists'/><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#user.uploads' href='https://gdata.youtube.com/feeds/api/users/redrivercollege/uploads' countHint='55'/><gd:feedLink rel='http://gdata.youtube.com/schemas/2007#user.newsubscriptionvideos' href='https://gdata.youtube.com/feeds/api/users/redrivercollege/newsubscriptionvideos'/><yt:googlePlusUserId>116579081814756647143</yt:googlePlusUserId><yt:location>CA</yt:location><yt:statistics lastWebAccess='1970-01-01T00:00:00.000Z' subscriberCount='190' videoWatchCount='0' viewCount='0' totalUploadViews='47446'/><media:thumbnail url='https://yt3.ggpht.com/-UuaVTRCi3SM/AAAAAAAAAAI/AAAAAAAAAAA/flPqfs-vygw/s88-c-k-no/photo.jpg'/><yt:username>redrivercollege</yt:username></entry>"
+
+<2014-04-28 12:02:30> Test: 
+<2014-04-28 12:02:30> http://www.gristlebone.com/School/Server_2_Server/update_youtube.php
+<2014-04-28 12:02:30> https://www.googleapis.com/youtube/v3/playlistItems?part=status&id=RedRiverCollege&key=AIzaSyAZcvcUZmHgo9oh7kr7r8BIFntt7AYI7b0
+<2014-04-28 12:02:30> REsponse:
+<2014-04-28 12:02:30> string(357) "{
+ "error": {
+  "errors": [
+   {
+    "domain": "usageLimits",
+    "reason": "accessNotConfigured",
+    "message": "Access Not Configured. Please use Google Developers Console to activate the API for your project."
+   }
+  ],
+  "code": 403,
+  "message": "Access Not Configured. Please use Google Developers Console to activate the API for your project."
+ }
+}
+"
+
+<2014-04-28 12:02:34> Test: 
+<2014-04-28 12:02:34> http://www.gristlebone.com/School/Server_2_Server/update_youtube.php
+<2014-04-28 12:02:34> https://www.googleapis.com/youtube/v3/playlistItems?part=status&id=RedRiverCollege&key=AIzaSyAZcvcUZmHgo9oh7kr7r8BIFntt7AYI7b0
+<2014-04-28 12:02:34> REsponse:
+<2014-04-28 12:02:34> string(357) "{
+ "error": {
+  "errors": [
+   {
+    "domain": "usageLimits",
+    "reason": "accessNotConfigured",
+    "message": "Access Not Configured. Please use Google Developers Console to activate the API for your project."
+   }
+  ],
+  "code": 403,
+  "message": "Access Not Configured. Please use Google Developers Console to activate the API for your project."
+ }
+}
+"
+
+<2014-04-28 12:02:35> Test: 
+<2014-04-28 12:02:36> http://www.gristlebone.com/School/Server_2_Server/update_youtube.php
+<2014-04-28 12:02:36> https://www.googleapis.com/youtube/v3/playlistItems?part=status&id=RedRiverCollege&key=AIzaSyAZcvcUZmHgo9oh7kr7r8BIFntt7AYI7b0
+<2014-04-28 12:02:36> REsponse:
+<2014-04-28 12:02:36> string(357) "{
+ "error": {
+  "errors": [
+   {
+    "domain": "usageLimits",
+    "reason": "accessNotConfigured",
+    "message": "Access Not Configured. Please use Google Developers Console to activate the API for your project."
+   }
+  ],
+  "code": 403,
+  "message": "Access Not Configured. Please use Google Developers Console to activate the API for your project."
+ }
+}
+"
+
+<2014-04-28 12:03:22> Test: 
+<2014-04-28 12:03:22> http://www.gristlebone.com/School/Server_2_Server/update_youtube.php
+<2014-04-28 12:03:22> https://www.googleapis.com/youtube/v3/playlistItems?part=status&id=RedRiverCollege&key=AIzaSyAZcvcUZmHgo9oh7kr7r8BIFntt7AYI7b0
+<2014-04-28 12:03:22> REsponse:
+<2014-04-28 12:03:22> string(357) "{
+ "error": {
+  "errors": [
+   {
+    "domain": "usageLimits",
+    "reason": "accessNotConfigured",
+    "message": "Access Not Configured. Please use Google Developers Console to activate the API for your project."
+   }
+  ],
+  "code": 403,
+  "message": "Access Not Configured. Please use Google Developers Console to activate the API for your project."
+ }
+}
+"
+
+<2014-04-29 07:10:30> Test: 
+<2014-04-29 07:10:30> http://www.gristlebone.com/School/Server_2_Server/update_youtube.php
+<2014-04-29 07:10:30> https://www.googleapis.com/youtube/v3/playlistItems?part=status&id=RedRiverCollege&key=AIzaSyAZcvcUZmHgo9oh7kr7r8BIFntt7AYI7b0
+<2014-04-29 07:10:30> REsponse:
+<2014-04-29 07:10:30> string(357) "{
+ "error": {
+  "errors": [
+   {
+    "domain": "usageLimits",
+    "reason": "accessNotConfigured",
+    "message": "Access Not Configured. Please use Google Developers Console to activate the API for your project."
+   }
+  ],
+  "code": 403,
+  "message": "Access Not Configured. Please use Google Developers Console to activate the API for your project."
+ }
+}
+"
+
+<2014-04-29 09:46:07> Tue Apr 29 15:28:41 +0000 2014
+<2014-04-29 09:46:07> Mon Apr 28 18:55:07 +0000 2014
+<2014-04-29 09:46:07> Mon Apr 28 14:15:28 +0000 2014
+<2014-04-29 09:46:07> Fri Apr 25 19:06:04 +0000 2014
+<2014-04-29 09:46:07> Fri Apr 25 16:43:52 +0000 2014
+<2014-04-29 09:46:07> Fri Apr 25 16:02:09 +0000 2014
+<2014-04-29 09:46:07> Fri Apr 25 15:54:13 +0000 2014
+<2014-04-29 09:46:07> Fri Apr 25 15:44:12 +0000 2014
+<2014-04-29 09:46:07> Fri Apr 25 14:28:12 +0000 2014
+<2014-04-29 09:46:07> Thu Apr 24 21:39:23 +0000 2014
+<2014-04-29 09:46:07> Thu Apr 24 17:06:48 +0000 2014
+<2014-04-29 09:46:07> Thu Apr 24 16:15:20 +0000 2014
+<2014-04-29 09:46:07> Thu Apr 24 16:03:27 +0000 2014
+<2014-04-29 09:46:07> Thu Apr 24 15:33:03 +0000 2014
+<2014-04-29 09:46:07> Thu Apr 24 15:18:30 +0000 2014
+<2014-04-29 09:46:07> Thu Apr 24 15:01:54 +0000 2014
+<2014-04-29 09:46:07> Thu Apr 24 14:40:24 +0000 2014
+<2014-04-29 09:46:07> Wed Apr 23 22:01:28 +0000 2014
+<2014-04-29 09:46:07> Wed Apr 23 21:36:27 +0000 2014
+<2014-04-29 09:46:07> Wed Apr 23 20:07:25 +0000 2014
